@@ -1,4 +1,4 @@
-⭐ _Star Jump - 2D Platform Adventure_
+⭐ **_Star Jump - 2D Platform Adventure**_
 
 **_🕹️ Game Features_**
 - Smooth character movement and jumping
@@ -7,7 +7,7 @@
 - Responsive controls (keyboard)
 - Animated player character
 
-**  _✨ Features_**
+ _✨ **Features_**
 - **Phaser 3** physics-powered platforming
 - Smooth character movement with arcade physics
 - Animated sprites using Phaser's animation system
